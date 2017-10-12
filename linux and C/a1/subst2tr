@@ -1,0 +1,14 @@
+if [ "$#" -ne 1 ]; then
+         echo usage: checkkey key
+else
+	from=''
+	to=''
+	sp=' '
+	while read f t
+	do
+		from=$from$f
+		to=$to$t
+	done <$1
+	submit=$from$sp$to
+	echo $submit	
+fi

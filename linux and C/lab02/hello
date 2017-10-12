@@ -1,0 +1,9 @@
+echo What is your name'?'
+read name
+echo Are you a girl or a boy'?'
+read bg
+echo How old are you'?'
+read age
+echo Once upon a time there was a little $bg named $name'.' 
+echo $name had a brother named Bill who was three years older'.'
+echo Bill was `expr $age + 3` years old'.'

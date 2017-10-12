@@ -1,0 +1,1 @@
+tr `./subst2tr ./problem1.key` < problem1

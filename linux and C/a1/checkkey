@@ -1,0 +1,11 @@
+atoz='/u/csc209h/summer/pub/a1/atoz'
+if [ "$#" -ne 1 ]; then
+	echo usage: checkkey key
+else
+	echo Letters repeated in the from list:
+	cut -c1 $1 | sort  | uniq -d
+	echo Letters missing from the from list:
+	cut -c1 $1 | sort  | comm -23 $atoz -
+	echo Letters repeated in the to list:
+	cut -d " " -f2 $1 | sort  | uniq -d  
+fi

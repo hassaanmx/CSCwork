@@ -1,0 +1,24 @@
+wolf:~$ /u/csc209h/summer/pub/a4/dancer localhost 8000
+That is not a Dance Card server.
+wolf:~$ /u/csc209h/summer/pub/a4/dancer localhost 8000
+Enter your 'handle': Wilma
+NOH
+Enter your 'handle': Velma
+Velma has joined the dance
+Enter your 'handle': Velma
+Can you dance lead, follow, or both? lead
+who
+
+
+dust2
+Server shut down
+wolf:~$ /u/csc209h/summer/pub/a4/dancer localhost 8000
+Enter your 'handle': Velma
+NOH
+Enter your 'handle': Wilma
+
+Can you dance lead, follow, or both? Can you dance lead, follow, or both? lead
+Wilma has joined the dance
+dust2
+who
+Server shut down

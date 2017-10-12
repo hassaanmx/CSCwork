@@ -1,0 +1,61 @@
+wolf:~$ nc localhost 8001
+dancecard 1
+must2
+
+b
+
+Welcome to the dance!
+Unpartnered dancers are:
+must
+must
+must accepts!
+Dance begins
+Dance ends.  Your partner thanks you for the dance!
+Time to find a new partner.  Type 'who' for a list of available dancers.
+begin
+Dance begins
+Dance ends.  Your partner thanks you for the dance!
+Time to find a new partner.  Type 'who' for a list of available dancers.
+who
+Unpartnered dancers are:
+must
+brudha has joined the dance!
+brudha has asked you to dance.  You accept!
+Dance begins
+Dance ends.  Your partner thanks you for the dance!
+Time to find a new partner.  Type 'who' for a list of available dancers.
+must has asked you to dance.  You accept!
+Dance begins
+Dance ends.  Your partner thanks you for the dance!
+Time to find a new partner.  Type 'who' for a list of available dancers.
+brudha has asked you to dance.  You accept!
+Dance begins
+Dance ends.  Your partner thanks you for the dance!
+Time to find a new partner.  Type 'who' for a list of available dancers.
+bro has joined the dance!
+brudha has asked you to dance.  You accept!
+Dance begins
+Dance ends.  Your partner thanks you for the dance!
+Time to find a new partner.  Type 'who' for a list of available dancers.
+Dance begins
+Dance ends.  Your partner thanks you for the dance!
+Time to find a new partner.  Type 'who' for a list of available dancers.
+who
+Unpartnered dancers are:
+bro
+brudha
+must
+bro
+Please don't ask bro to dance, as that would leave people out.
+must
+must accepts!
+Dance begins
+Dance ends.  Your partner thanks you for the dance!
+Time to find a new partner.  Type 'who' for a list of available dancers.
+who
+Unpartnered dancers are:
+bro
+brudha
+must
+brudha
+brudha accepts!
