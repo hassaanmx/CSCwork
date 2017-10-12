@@ -1,1 +1,0 @@
-./bfreq problem2 | sort -k2 -n
