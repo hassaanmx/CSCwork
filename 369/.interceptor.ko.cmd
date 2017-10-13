@@ -1,0 +1,1 @@
+cmd_/home/student/repo_mustaf65/interceptor.ko := ld -r -m elf_i386 -T /usr/src/linux-source-2.6.32/scripts/module-common.lds --build-id -o /home/student/repo_mustaf65/interceptor.ko /home/student/repo_mustaf65/interceptor.o /home/student/repo_mustaf65/interceptor.mod.o
